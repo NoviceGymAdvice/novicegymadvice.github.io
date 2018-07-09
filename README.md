@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Online Coach
 
-You can use the [editor on GitHub](https://github.com/NoviceGymAdvice/novicegymadvice.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi everyone! Novicegymadvice is a project I am working on to help coach beginners interested in getting fit. With my coaching services I will give advice from workout routine, form check, nutrition, and other information that a novice lifter would need. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
 
-### Markdown
+At the start of my journey I was 5’10 and 125 pounds and I could not even bench the bar. After many years of experimenting with different programs and adjustments to my form I am now able to bench nearly 300 pounds at 150 pounds. I am not an expert but I can give you advice that will optimize your training if you are looking for a natural way to get stronger. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What I can do for you...
 
-```markdown
-Syntax highlighted code block
+* Discuss gym goals and create a program for you to reach there
+* Give you my email and you can send me videos of your workout and I will critque your form
+* Show you my own personal program
+* Help create diets for weight gain or loss
+* Teach proper gym etiquitte
 
-# Header 1
-## Header 2
-### Header 3
+## Cost
 
-- Bulleted
-- List
+20$ a month for students and 30$ a month for non-students.
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NoviceGymAdvice/novicegymadvice.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are interested in an Online Coach please shoot me an email at novicegymadvice@gmail.com
