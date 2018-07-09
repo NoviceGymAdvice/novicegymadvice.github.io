@@ -14,6 +14,7 @@ At the start of my journey I was 5’10 and 125 pounds and I could not even benc
 * Help create diets for weight gain or loss
 * Teach proper gym etiquitte
 * Customized Gym gear to help perfect your form
+
 ## Cost
 
 20$ a month for students and 40$ a month for non-students.
