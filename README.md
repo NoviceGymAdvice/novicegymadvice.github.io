@@ -16,7 +16,7 @@ At the start of my journey I was 5’10 and 125 pounds and I could not even benc
 
 ## Cost
 
-20$ a month for students and 30$ a month for non-students.
+20$ a month for students and 40$ a month for non-students.
 
 ### Contact
 
