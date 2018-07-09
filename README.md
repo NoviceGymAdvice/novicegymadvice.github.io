@@ -4,7 +4,7 @@ Hi everyone! Novicegymadvice is a project I am working on to help coach beginner
 
 ## About me
 
-At the start of my journey I was 5’10 and 125 pounds and I could not even bench the bar. After many years of experimenting with different programs and adjustments to my form I am now able to bench nearly 300 pounds at 150 pounds. I am not an expert but I can give you advice that will optimize your training if you are looking for a natural way to get stronger. 
+At the start of my journey I was 5’10 and 125 pounds and I could not even bench 95 pounds. After many years of experimenting with different programs and adjustments to my form I have nearly tripled my benchpress, squat and deadlift. I am not an expert but I can give you advice that will optimize your training if you are looking for a natural way to get stronger. 
 
 ## What I can do for you...
 
