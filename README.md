@@ -1,4 +1,4 @@
-# Online Coach
+# Online Fitness Coach
 
 Hi everyone! Novicegymadvice is a project I am working on to help coach beginners interested in getting fit. With my coaching services I will give advice from workout routine, form check, nutrition, and other information that a novice lifter would need. 
 
