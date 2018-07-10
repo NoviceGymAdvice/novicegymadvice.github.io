@@ -17,7 +17,7 @@ At the start of my journey I was 5’10 and 125 pounds and I could not even benc
 
 ## Cost
 
-200$ for 6 months and 300$ for a year
+35$ for 1 months and 200$ for 6 months
 
 ### Contact
 
